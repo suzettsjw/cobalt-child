@@ -12,7 +12,7 @@
     <div class="upper-videos" style="height:80%;display:inline-block;margin:0;">
       <div id="player"></div>
       <script src="/wp-content/themes/cobalt-child/js/vimeowrap.js"></script>
-      <script>vimeowrap('player').setup({urls: ['https://vimeo.com/182716364'],repeat:'always',autoplay:'true',width:'1024',height:'700',allowFullScreen:'false'});</script>
+      <script>vimeowrap('player').setup({urls: ['https://vimeo.com/182716364'],repeat:'always',autoplay:'true',width:'1024',height:'650',allowFullScreen:'false'});</script>
     </div><!-- .upper-videos -->
     <div class="lower-buttons" style="position:absolute;left:0;bottom:0;width:100%;display:inline-block;height:20%;z-index:99;">
         <div style="background-color:#6f777d; width:25%;height:100%;display:inline-block;">
