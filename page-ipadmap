@@ -1,5 +1,5 @@
 <?php
-/* Template Name: Map Page */
+/* Template Name: iPad Map Page */
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]><html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'ie6 no-js' ); ?>" data-dppx="1"><![endif]-->
