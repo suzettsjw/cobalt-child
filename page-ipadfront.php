@@ -8,7 +8,7 @@
     <link href="https://fonticons-free-fonticons.netdna-ssl.com/kits/8903c25b/8903c25b.css" media="all" rel="stylesheet">
   </head>
 <body style="margin:0;background-color:black;font-family:‘ITC Franklin Gothic W01’,Arial;font-weight:bold;font-size:4em;line-height:1em;text-transform:uppercase;overflow:hidden;">
-    <div style="position:absolute;z-index:999;height:940px;width:1800px;"></div>
+    <div style="position:absolute;z-index:999;height:900px;width:100%;"></div>
     <div class="upper-videos" style="height:1000px;display:inline-block;margin:0;">
       <div id="player"></div>
       <script src="/wp-content/themes/cobalt-child/js/vimeowrap.js"></script>
