@@ -22,7 +22,7 @@ wp_head();
   <section role="main" class="content-primary" id="content-primary">
     <div class="container" style="padding:0;width:100%">
       <div class="row" style="margin:0;">
-        <section class="col-xs-12 content-section content" style="padding-top:10px;">
+        <section class="col-xs-12 content-section content" style="padding:0;">
           <article class="page type-page status-publish hentry">
             <div class="entry-content"><?php if ( have_posts() ) while ( have_posts() ) : the_post(); the_content(); endwhile; ?></div>
           </article>
