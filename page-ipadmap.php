@@ -1,10 +1,6 @@
 <?php /* Template Name: iPad Map Page */ ?>
 <!DOCTYPE html>
-<!--[if lt IE 7]><html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'ie6 no-js' ); ?>" data-dppx="1"><![endif]-->
-<!--[if IE 7]><html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'ie7 no-js' ); ?>" data-dppx="1"><![endif]-->
-<!--[if IE 8]><html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'ie8 no-js' ); ?>" data-dppx="1"><![endif]-->
-<!--[if IE 9]><html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'ie9 no-js' ); ?>" data-dppx="1"><![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'no-js' ); ?>" data-dppx="1"><!--<![endif]-->
+<html id="full-touch" lang="en-US">
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta http-equiv="X-UA-Compatible" content="IE=9" />
