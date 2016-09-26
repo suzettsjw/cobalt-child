@@ -1,6 +1,6 @@
 <?php /* Template Name: iPad Map Page */ ?>
 <!DOCTYPE html>
-<html id="full-touch" lang="en-US">
+<html <?php language_attributes(); ?> class="<?php COBALT_500::get()->html_class( 'no-js' ); ?>" data-dppx="1">
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta http-equiv="X-UA-Compatible" content="IE=9" />
