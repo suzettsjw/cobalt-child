@@ -11,7 +11,7 @@
 </head>
 <body style="margin:0;background-color:white;overflow:hidden;"><?php do_action( 'body_open' ); ?> 
   <section role="main" class="content-primary" id="content-primary" style="height:900px;overflow:auto;display:inline-block;margin:0;">
-    <div class="container" style="width:100%;padding:0px 50px 0px 50px">
+    <div class="container" style="width:100%;padding:0px 20px 0px 20px">
       <div class="row">
         <section class="col-xs-12 content-section content">
           <article class="page type-page status-publish hentry">
