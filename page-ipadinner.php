@@ -8,6 +8,7 @@
   <title><?php echo COBALT_500::get()->get_title(); ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=yes">
   <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" /><?php COBALT_500::get()->social_meta(); wp_head(); ?>
+  <style> div.card-wrap-slide {text-align:left;} </style>
 </head>
 <body style="margin:0;background-color:white;overflow:hidden;"><?php do_action( 'body_open' ); ?> 
   <section role="main" class="content-primary" id="content-primary" style="height:900px;overflow:auto;display:inline-block;margin:0;">
