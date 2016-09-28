@@ -4,6 +4,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
 <meta http-equiv="X-UA-Compatible" content="IE=9" />
+<link href="https://fonticons-free-fonticons.netdna-ssl.com/kits/8903c25b/8903c25b.css" media="all" rel="stylesheet">
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <title><?php echo COBALT_500::get()->get_title(); ?></title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2, user-scalable=yes">
