@@ -10,7 +10,7 @@
 <body style="margin:0;background-color:black;font-family:‘ITC Franklin Gothic W01’,Arial;font-weight:bold;font-size:4em;line-height:1em;text-transform:uppercase;overflow:hidden;">
     <div style="position:absolute;z-index:999;height:80%;width:100%;"></div>
     <div class="upper-videos" style="height:80%;display:inline-block;margin:0;position:absolute;">
-      <div style="height:760px;width:1024px;v-align:center;">
+      <div style="height:760px;width:1024px;padding-top:100px;">
         <iframe src="https://player.vimeo.com/video/182716364?autoplay=1&loop=1&title=0&byline=0&portrait=0" width="1024" height="576" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     </div><!-- .upper-videos -->
