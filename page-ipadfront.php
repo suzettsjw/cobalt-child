@@ -11,7 +11,7 @@
     <div style="position:absolute;z-index:999;height:80%;width:100%;"></div>
     <div class="upper-videos" style="height:80%;display:inline-block;margin:0;position:absolute;">
       <div style="height:760px;width:1024px;padding-top:50px;">
-       <video src="https://player.vimeo.com/video/182716364" width="1024" height="576" controls="controls" autoplay="autoplay" loop = "loop" qtnext1="goto0" controller="false" kioskmode="true"></video>
+       <video src="http://falk.syr.edu/wp-content/uploads/Falk-College-News-Monitor-Displays-September-2016-HD.mp4" width="1024" height="576" controls="controls" autoplay="autoplay" loop = "loop" qtnext1="goto0" controller="false" kioskmode="true"></video>
       </div>
     </div><!-- .upper-videos -->
     <div class="lower-buttons" style="position:absolute;left:0;bottom:0;width:100%;display:inline-block;height:12%;z-index:99;">
