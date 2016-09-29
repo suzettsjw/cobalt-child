@@ -10,9 +10,9 @@
 <body style="margin:0;background-color:black;font-family:‘ITC Franklin Gothic W01’,Arial;font-weight:bold;font-size:4em;line-height:1em;text-transform:uppercase;overflow:hidden;">
     <div style="position:absolute;z-index:999;height:80%;width:100%;"></div>
     <div class="upper-videos" style="height:80%;display:inline-block;margin:0;position:absolute;">
-      <div id="player"></div>
-      <script src="/wp-content/themes/cobalt-child/js/vimeowrap.js"></script>
-      <script>vimeowrap('player').setup({urls: ['https://vimeo.com/182716364'],repeat:'always',autoplay:'true',width:'1024',height:'650',allowFullScreen:'false'});</script>
+
+      <div class="su-vimeo su-responsive-media-yes"><iframe width="100%" height="680" src="//player.vimeo.com/video/182716364?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" allowfullscreen="true"></iframe></div>
+
     </div><!-- .upper-videos -->
     <div class="lower-buttons" style="position:absolute;left:0;bottom:0;width:100%;display:inline-block;height:12%;z-index:99;">
         <div style="background-color:#6f777d; width:25%;height:100%;display:inline-block;">
