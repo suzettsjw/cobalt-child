@@ -1,6 +1,6 @@
 <?php /* Template Name: iPad Inner Page */ ?>
 <!DOCTYPE html>
-<html id="full-touch" lang="en-US">
+<html id="full-touch" class="ipad-inner" lang="en-US">
 <head>
   <meta charset="<?php bloginfo( 'charset' ); ?>" />
   <meta http-equiv="X-UA-Compatible" content="IE=9" /><link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/b05259d9-ca62-44a8-8a19-d3facdbd64df.css"/>
