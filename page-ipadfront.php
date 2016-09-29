@@ -11,7 +11,7 @@
     <div style="position:absolute;z-index:999;height:80%;width:100%;"></div>
     <div class="upper-videos" style="height:80%;display:inline-block;margin:0;position:absolute;">
 
-      <div class="su-vimeo su-responsive-media-yes"><iframe width="100%" height="680" src="//player.vimeo.com/video/182716364?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" allowfullscreen="true"></iframe></div>
+      <div class="su-vimeo su-responsive-media-yes"><iframe width="1024" height="680" src="//player.vimeo.com/video/182716364?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" allowfullscreen="true"></iframe></div>
 
     </div><!-- .upper-videos -->
     <div class="lower-buttons" style="position:absolute;left:0;bottom:0;width:100%;display:inline-block;height:12%;z-index:99;">
